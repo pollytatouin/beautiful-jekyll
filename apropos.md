@@ -1,16 +1,26 @@
 ---
 layout: page
-title: À propos
-subtitle: Why you'd want to go on a date with me
+title: ESSTOQ
+subtitle: Un site de réflexions sur le Québec
 ---
 
-Allo test. My name is Inigo Montoya. I have the following qualities:
+Bonjour et bienvenu sur le site d'ESSTOQ, un espace rassemblant mes cogitations sur l'Écomomie, la Société, les STatistiques, de même que quelques Outils, le tout par rapport au Québec !
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+En plus de former un accronyme des plus... curieux, *ESSTOQ* réfère au mot **estoc** qui signifie *avec la pointe de l'épée*. La pertinence de cette définition est que ce site vise à rassembler non seulement des réflexions diverses, mais surtout des réflexions éclairantes, honnêtes et qui frapperont juste; telle la pointe d'une épée.
 
-What else do you need?
+Cela étant, il n'est nullement exclu que certaines discussions soient ouvertement loufoques et légères ! 
 
-### my history
+### Contenu
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sur ce site, vous retrouverez d'abord de simples billets (bientôt ouverts aux commentaires), mais aussi des outils qui je l'espère vous seront utiles ! Pour vous donner quelques exemples, j'aimerais aborder des sujets tels que: 
+
+- la fiscalité au Québec
+- le port des signes religieux (:o)
+- utiliser le logiciel statistique R
+- construire un tableau de bord socioéconomique en ligne pour le Québec
+
+Bonne visite !
+
+### À propos de l'auteur
+
+À venir

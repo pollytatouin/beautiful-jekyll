@@ -23,7 +23,7 @@ description: Économie, Société, STatistiques, Outils, Québec
 
 # List of links in the navigation bar
 navbar-links:
-  À propos: "À propos"
+  À propos: "apropos"
   Resources:
     - Apprendre markdown: "http://www.markdowntutorial.com/"
     - Pages Github: "https://pages.github.com/"

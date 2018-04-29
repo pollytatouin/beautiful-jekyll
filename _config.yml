@@ -17,7 +17,7 @@ baseurl: ""
 title: ESSTOQ
 
 # Short description of your site
-description: Un blog rassemblant mes réflexions sur l'Économie, la Société, les STatistiques, de même que divers Outils, le tout au sujet du Québec.
+description: Économie, Société, STatistiques, Outils, Québec
 
 # --- Navigation bar options --- #
 
@@ -25,8 +25,7 @@ description: Un blog rassemblant mes réflexions sur l'Économie, la Société, 
 navbar-links:
   À propos: "À propos"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Appreandre markdown: "http://www.markdowntutorial.com/"
+    - Apprendre markdown: "http://www.markdowntutorial.com/"
     - Pages Github: "https://pages.github.com/"
   Accueil: "http://pollytatouin.github.io"
 
@@ -42,8 +41,8 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#000080"
+navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"

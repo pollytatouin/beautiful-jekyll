@@ -14,21 +14,21 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: ESSTOQ
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Un blog rassemblant mes réflexions sur l'Économie, la Société, les STatistiques, de même que divers Outils, le tout au sujet du Québec.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "À propos"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+    - Appreandre markdown: "http://www.markdowntutorial.com/"
+    - Pages Github: "https://pages.github.com/"
+  Author's home: "http://pollytatouin.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -64,15 +64,15 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: JMG
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
+  rss: false
+  email: "temp@gmail.com"
   facebook: daattali
   github: daattali
   twitter: daattali
@@ -95,11 +95,11 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "pollytatouin.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -136,7 +136,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Montreal"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

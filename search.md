@@ -6,8 +6,6 @@ css: "/css/search.css"
 
 # Rechercher sur ESSTOQ
 
-### Using the Amazing Google
-
 <div id="google-custom-search">
 <script>
   (function() {
